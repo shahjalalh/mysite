@@ -8,6 +8,21 @@ ref: https://codepen.io/thapliyalshivam/pen/dvgXVO
     margin-bottom: 10px;
 }
 
+.postdate{
+    text-align: center;
+}
+
+.posttitle{
+    font-family: 'Russo One', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+.postcontent{
+    font-family: 'Montserrat';
+    font-size: 1.5em;
+}
+
 .bigbrand{
     font-size: 1.5em;
 }
@@ -17,6 +32,13 @@ ref: https://codepen.io/thapliyalshivam/pen/dvgXVO
     margin-right: auto;
 }
 
+.btn-comment{
+    position: absolute;
+    right: 0;
+}
+
+/*COLOR CHANGER*/
+/*Credit and Source: http://codepen.io/thapliyalshivam/pen/dvgXVO*/
 .loader {
     filter: hue-rotate(0deg);
     color: linear-gradient(45deg, #0f8, #08f);
